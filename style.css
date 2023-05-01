@@ -8,6 +8,11 @@ body {
   background: linear-gradient(to right, #ff0000, #ffff00); /* Standard syntax */
 }
 
+.margin {
+  margin-top: 0px;
+  margin-bottom: 80px;
+}
+
 h1 {
   font: 600 3.5em "Raleway", sans-serif;
   color: rgba(0, 0, 0, 0.5);
